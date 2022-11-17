@@ -1,3 +1,11 @@
+/*****
+ * 
+ * @author Mirza Baig 
+ * Date: 11/16/2022 [W]
+ *
+ */
+
+
 import java.util.Scanner;
 
 public class Exercise06_04v2 {
