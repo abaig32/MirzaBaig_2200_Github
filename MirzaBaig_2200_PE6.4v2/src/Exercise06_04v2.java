@@ -2,6 +2,7 @@
  * 
  * @author Mirza Baig 
  * Date: 11/16/2022 [W]
+ * 		 11/18/2022 [F] Modify solution from last Monday
  *
  */
 
@@ -22,6 +23,11 @@ public class Exercise06_04v2 {
 	}
 	
 	public static void reverse(int n) {
+		if (n == 0) {
+			
+			System.out.print(n);
+		}
+		
 		if (n < 0) {
 			
 			System.out.print("-");
